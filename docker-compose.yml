@@ -1,0 +1,32 @@
+services:
+  node1:
+    build: .
+    container_name: node1
+    hostname: node1
+    environment:
+      NODE_ID: 1
+      PORT: 5001
+
+  node2:
+    build: .
+    container_name: node2
+    hostname: node2
+    environment:
+      NODE_ID: 2
+      PORT: 5002
+
+  node3:
+    build: .
+    container_name: node3
+    hostname: node3
+    environment:
+      NODE_ID: 3
+      PORT: 5003
+
+  node4:
+    build: .
+    container_name: node4
+    hostname: node4
+    environment:
+      NODE_ID: 4
+      PORT: 5004
