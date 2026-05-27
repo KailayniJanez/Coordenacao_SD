@@ -153,4 +153,11 @@ node4.log
 
 ## Authors
 
+Group J
+
+- Kailayni Rodrigues Janez
+- Samuel Gerga Martins
+- Matheus Minasse
+- Lucas Vasconcelos Fuji
+- Ivan Mateus Azevedo Martinotto
 Developed for the Distributed Systems course project.
